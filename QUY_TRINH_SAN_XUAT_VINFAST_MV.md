@@ -149,25 +149,7 @@
 
 ---
 
-## 4. BỘ FILES ĐÍNH KÈM & ĐƯỜNG DẪN LƯU TRỮ
-
-Thư mục đã được đóng gói đầy đủ trên máy cục bộ tại:
-- **Đường dẫn thư mục quy trình:**  
-  `file:///Users/mac/Desktop/untitled%20folder%202/quy_trinh_vinfast_mv/`
-- **Tài liệu Markdown hoàn chỉnh:**  
-  `file:///Users/mac/Desktop/untitled%20folder%202/quy_trinh_vinfast_mv/QUY_TRINH_SAN_XUAT_VINFAST_MV.md`
-- **Ảnh tổng quan 12 khung hình (Contact Sheet):**  
-  `file:///Users/mac/Desktop/untitled%20folder%202/quy_trinh_vinfast_mv/assets/tong_quan_quy_trinh_contact_sheet.jpg`
-- **Thư mục 18 ảnh chụp minh họa từng bước:**  
-  `file:///Users/mac/Desktop/untitled%20folder%202/quy_trinh_vinfast_mv/assets/`
-- **File video thành phẩm MP4 chất lượng cao:**  
-  `file:///Users/mac/Desktop/untitled%20folder%202/VinFast_Cham_Tuong_Lai_v8_1080p60.mp4`
-
----
-
----
-
-## 5. GIAO LƯU KẾT NỐI & CỘNG ĐỒNG CREATOR
+## 4. GIAO LƯU KẾT NỐI & CỘNG ĐỒNG CREATOR
 
 > 🌟 **Lời chúc & Lời ngỏ kết nối:**  
 > Kính chúc Quý Anh/Chị và toàn thể anh em Creator luôn dồi dào năng lượng sáng tạo, không ngừng bứt phá và cùng nhau kiến tạo nên những thước phim Kinetic Motion, TVC kỹ xảo đồ họa đỉnh cao, chạm tới những chuẩn mực quốc tế!  
